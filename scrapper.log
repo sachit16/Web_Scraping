@@ -1,0 +1,5 @@
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.2 - - [02/Jan/2024 16:25:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:172.18.0.2 - - [02/Jan/2024 16:25:36] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:172.18.0.2 - - [02/Jan/2024 16:25:36] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:172.18.0.2 - - [02/Jan/2024 16:25:56] "[37mPOST /review HTTP/1.1[0m" 200 -
